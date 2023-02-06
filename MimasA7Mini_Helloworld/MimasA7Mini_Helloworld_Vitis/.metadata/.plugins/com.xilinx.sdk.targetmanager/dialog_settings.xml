@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="helloworld_system-bitFile" value="${project_loc:helloworld}/_ide/bitstream/sample_design_wrapper123.bit"/>
+	<item key="helloworld_system-bmmFile" value="${project_loc:helloworld}/_ide/bitstream/sample_design_wrapper123.mmi"/>
+	<item key="helloworld_system-target" value="Local"/>
+	<item key="helloworld_system-device" value="Auto Detect"/>
+	<item key="helloworld_system-partial_bit" value="false"/>
+	<item key="helloworld_system-skip_rev_check" value="false"/>
+	<item key="programfpga.sdxproject" value="helloworld_system"/>
+	<item key="helloworld_system-microblaze_0-initElf" value="bootloop"/>
+	<item key="devices_info_Local" value="{&quot;cables&quot;:[{&quot;name&quot;:&quot;Xilinx Virtual Cable localhost:2542&quot;,&quot;indexContextMap&quot;:{&quot;2&quot;:&quot;jsn-XVC-localhost:2542-0362d093-0&quot;}}]}"/>
+</section>
